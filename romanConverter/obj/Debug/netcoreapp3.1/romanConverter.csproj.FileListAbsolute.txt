@@ -1,0 +1,14 @@
+C:\Users\Måns\source\repos\romanConverter\romanConverter\bin\Debug\netcoreapp3.1\romanConverter.exe
+C:\Users\Måns\source\repos\romanConverter\romanConverter\bin\Debug\netcoreapp3.1\romanConverter.deps.json
+C:\Users\Måns\source\repos\romanConverter\romanConverter\bin\Debug\netcoreapp3.1\romanConverter.runtimeconfig.json
+C:\Users\Måns\source\repos\romanConverter\romanConverter\bin\Debug\netcoreapp3.1\romanConverter.runtimeconfig.dev.json
+C:\Users\Måns\source\repos\romanConverter\romanConverter\bin\Debug\netcoreapp3.1\romanConverter.dll
+C:\Users\Måns\source\repos\romanConverter\romanConverter\bin\Debug\netcoreapp3.1\romanConverter.pdb
+C:\Users\Måns\source\repos\romanConverter\romanConverter\obj\Debug\netcoreapp3.1\romanConverter.csproj.AssemblyReference.cache
+C:\Users\Måns\source\repos\romanConverter\romanConverter\obj\Debug\netcoreapp3.1\romanConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Måns\source\repos\romanConverter\romanConverter\obj\Debug\netcoreapp3.1\romanConverter.AssemblyInfoInputs.cache
+C:\Users\Måns\source\repos\romanConverter\romanConverter\obj\Debug\netcoreapp3.1\romanConverter.AssemblyInfo.cs
+C:\Users\Måns\source\repos\romanConverter\romanConverter\obj\Debug\netcoreapp3.1\romanConverter.csproj.CoreCompileInputs.cache
+C:\Users\Måns\source\repos\romanConverter\romanConverter\obj\Debug\netcoreapp3.1\romanConverter.dll
+C:\Users\Måns\source\repos\romanConverter\romanConverter\obj\Debug\netcoreapp3.1\romanConverter.pdb
+C:\Users\Måns\source\repos\romanConverter\romanConverter\obj\Debug\netcoreapp3.1\romanConverter.genruntimeconfig.cache

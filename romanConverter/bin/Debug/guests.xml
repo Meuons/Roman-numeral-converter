@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry>
+    <roman>XV</roman>
+    <arabic>15</arabic>
+  </entry>
+  <entry>
+    <roman>MCMXCIV</roman>
+    <arabic>1994</arabic>
+  </entry>
+  <entry>
+    <roman>MMMMCMXCIX</roman>
+    <arabic>4999</arabic>
+  </entry>
+  <entry>
+    <roman>V</roman>
+    <arabic>5</arabic>
+  </entry>
+  <entry>
+    <roman>CCXLIII</roman>
+    <arabic>243</arabic>
+  </entry>
+  <entry>
+    <roman>II</roman>
+    <arabic>2</arabic>
+  </entry>
+  <entry>
+    <roman>DXXXVIII</roman>
+    <arabic>538</arabic>
+  </entry>
+  <entry>
+    <roman>II</roman>
+    <arabic>2</arabic>
+  </entry>
+</ArrayOfEntry>
