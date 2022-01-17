@@ -120,7 +120,7 @@ namespace romanConverter
                     )
                 );
                 //save the document
-                xDoc.Save(@"..\guests.xml");
+                xDoc.Save(@"..\entries.xml");
                 return FilePath;
             }
 
